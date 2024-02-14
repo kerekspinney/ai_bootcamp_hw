@@ -1,2 +1,2 @@
-# ai_bootcamp_hw
+# ai_bootcamp_hw1
 This is the AI Bootcamp homework 1
